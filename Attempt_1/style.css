@@ -86,6 +86,7 @@ p {
 	width: 90%;
 	height: 250px;
 	justify-content: space-between;
+	align-content: center;
 }
 	
 
@@ -184,3 +185,57 @@ p {
 	margin-right: 2.5%;
 	border: 3px solid black;
 }
+
+.three {
+	display: flex;
+	flex-direction: row;
+	background-color: blue;
+	border: 3px solid black;
+	width: 90%;
+	height: 18.5em;
+	justify-content: space-between;
+}
+
+.article-style2 {
+	width: 46%;
+	height: 85%;
+	margin-top: 1%;
+	margin-bottom: 1%;
+	background-color: white;
+	border: 1px solid black;
+	position: relative;
+}
+
+#img-seven{
+	height: 60%;
+	width: 100%;
+	border: 3px solid red;
+}
+
+#img-eight{
+	height: 60%;
+	width: 100%;
+	border: 3px solid red;
+}
+
+.four {
+	display: flex;
+	flex-direction: row;
+	background-color: blue;
+	border: 3px solid black;
+	width: 90%;
+	height: 18.5em;
+	justify-content: space-between;
+}
+
+#img-nine{
+	height: 60%;
+	width: 100%;
+	border: 3px solid red;
+}
+
+#img-ten{
+	height: 60%;
+	width: 100%;
+	border: 3px solid red;
+
